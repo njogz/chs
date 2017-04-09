@@ -764,15 +764,15 @@ section.dark {
 }
 
 #explore-1.side-bg .background-image {
-    background:url('../img/explore/pic (1).jpg')
+    background:url('../img/explore/explore1.JPG')
 }
 
 #explore-2.side-bg .background-image {
-    background:url('../img/explore/pic (2).jpg')
+    background:url('../img/explore/explore2.JPG')
 }
 
 #explore-3.side-bg .background-image {
-    background:url('../img/explore/pic (3).jpg')
+    background:url('../img/explore/explore3.jpg')
 }
 
 #explore-4.side-bg .background-image {
@@ -1879,7 +1879,9 @@ FLEXSLIDER
     display:table;
     position:absolute;
     height:100%;
-    z-index:100
+    width:100%;
+    z-index:100;
+    background: rgba(0,0,0,0.5);
 }
 
 .text-wrap .inner .mid {
